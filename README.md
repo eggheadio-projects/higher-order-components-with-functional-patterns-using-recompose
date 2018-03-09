@@ -1,1 +1,1 @@
-# higher-order-components-with-functional-patterns-using-recompose
+# higher-order-components-with-functional-patterns-using-recompose repo
